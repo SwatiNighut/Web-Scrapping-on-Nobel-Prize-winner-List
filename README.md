@@ -4,14 +4,18 @@ Project Name: Nobel Prize Winner List
 
 Table of content :
 
-Reason to choose the file
+Reason to choose the file,
+
 Pandas operations used in file
+
 Graphs which are used
-Conclusion
+
+ :
 Reasons to choose the file:
 I want interested in doing web scrapping so I selected this topic. In this dataset I used requests and Beautiful soup to extract the data.
 
 Pandas operations : To extract the data and to arrange the data in proper fomat some pandas operation and python methods are used.
+
 Python method : slicing , indexing ,loop,strip
 Pandas methods: info(), describe(), value_counts(),rename the columns,drop()
 
